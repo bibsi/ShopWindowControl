@@ -2,11 +2,11 @@
 
 angular
   .module('shopWindowControlApp', [
+    'angular-flexslider',
     'ngCookies',
     'ngResource',
     'ngSanitize',
-    'ngRoute',
-    'angular-flexslider'
+    'ngRoute'
   ])
   .config(function ($routeProvider) {
     $routeProvider
