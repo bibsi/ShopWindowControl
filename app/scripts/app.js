@@ -2,7 +2,7 @@
 
 angular
   .module('shopWindowControlApp', [
-    'angular-flexslider',
+    // 'angular-flexslider',
     'ngCookies',
     'ngResource',
     'ngSanitize',
